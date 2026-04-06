@@ -1,6 +1,6 @@
 # Churn Prediction — Do Notebook à Produção
 
-> Uma jornada completa de produtização: da análise exploratória até um sistema de predição assíncrono, containerizado, com mensageria e persistência relacional.
+> Da análise exploratória até um sistema de predição assíncrono, containerizado, com mensageria e persistência relacional.
 
 ---
 
