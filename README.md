@@ -10,7 +10,8 @@ Churn é uma das métricas mais críticas para qualquer empresa. Adquirir um nov
 
 **O foco deste projeto não é a performance do modelo.** O modelo de Gradient Boosting utilizado é um baseline sólido, mas o objetivo central aqui é outro: demonstrar a evolução de um projeto de ciência de dados saindo de um Jupyter notebook para um sistema produtizado com práticas robustas de engenharia.
 
-Este é um projeto de aprendizado intencional em produtização — uma habilidade que separa data scientists que entregam modelos em notebooks daqueles que entregam sistemas que funcionam em produção. Cada decisão arquitetural tomada ao longo do projeto reflete práticas que estou desenvolvendo ativamente na minha carreira como DS.
+
+Neste projeto foquei em melhorar minhas habilidades em produtizar um projeto de Ciência de Dados, pois é isso que separa um Cientista de Dados que apenas entrega modelos daqueles Seniors que entregam sistemas que funcionam em produção e **realmente agregam valor ao negócio**.
 
 ---
 
