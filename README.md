@@ -327,5 +327,3 @@ Principais features:
 **`basic_qos(prefetch_count=1)`** — o worker processa uma mensagem por vez, prevenindo sobrecarga de memória em picos de tráfego.
 
 **Retry loops com delay** — tanto a API quanto o worker reconectam automaticamente ao RabbitMQ e ao PostgreSQL na inicialização, tolerando o delay natural entre a subida dos containers.
-
-**Logging estruturado** — módulo `logging` com `%(name)s` identifica a origem de cada linha de log entre os serviços.
