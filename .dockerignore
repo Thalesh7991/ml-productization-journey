@@ -1,6 +1,6 @@
 data/
 notebooks/
 
-.git/        # histórico do git — inútil dentro do container, pode ser grande
-tests/       # testes só rodam em CI/CD, não em produção
-__pycache__/ # bytecode gerado automaticamente, não deve ser copiado
+.git/
+tests/
+__pycache__/
